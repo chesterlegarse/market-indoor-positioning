@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Market!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_track_path">TrackPathActivity</string>
+    <string name="track_path_dialog">Track this path?</string>
+    <string name="confirm_dialog">Confirm</string>
+    <string name="record_button">Record</string>
+    <string name="current_location">Current Location</string>
+    <string name="search">Search</string>
+</resources>
